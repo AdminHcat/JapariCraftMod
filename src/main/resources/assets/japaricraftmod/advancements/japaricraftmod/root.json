@@ -1,0 +1,66 @@
+{
+  "display": {
+    "icon": {
+      "item": "japaricraftmod:japariman"
+    },
+    "title": {
+      "translate": "advancements.japaricraftmod.root.title"
+    },
+    "description": {
+      "translate": "advancements.japaricraftmod.root.description"
+    },
+    "background": "japaricraftmod:textures/blocks/sandstar_block.png",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "japariman": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "japaricraftmod:japariman"
+          }
+        ]
+      }
+    },
+    "japarimancocoa": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "japaricraftmod:japarimancocoa"
+          }
+        ]
+      }
+    },
+    "japarimanapple": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "japaricraftmod:japarimanapple"
+          }
+        ]
+      }
+    },
+    "japarimanfruit": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "japaricraftmod:japarimanfruit"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "japariman",
+      "japarimancocoa",
+      "japarimanapple",
+      "japarimanfruit"
+    ]
+  ]
+}

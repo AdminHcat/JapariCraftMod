@@ -1,0 +1,94 @@
+# German translation by https://github.com/DeadSix27
+tile.BlockWoodenFrame.name=Holzrahmen
+tile.SandStarBlock.name=Sandstern Block
+tile.sandstar_ore.name=Sandsternerz
+tile.sandstarwater.name=Sandstern Wasser
+
+item.Japariman.name=Japarimann
+item.JaparimanCocoa.name=Kakao Japarimann
+item.JaparimanFruit.name=Fruchht Japarimann
+item.SandStarFragment.name=Sandstern Fragment
+item.SandStarSword.name=Sandstern Schwert
+item.SandStarShovel.name=Sandstern Schaufel
+item.SandStarAxe.name=Sandstern Axt
+item.SandStarPickaxe.name=Santstern Pickhacke
+item.StarJapariman.name=Stern Japarimann
+item.SugarStar.name=Zuckerstern
+item.WildLiberationSource.name=Zähmungstrank Quelle
+item.PumpkinSoup.name=Kürbis Suppe
+# Did you intent to call it "wild liberation" as style? Or did you actually mean "Tame Potion" ? I'll go by tame, sounds better in German.
+item.WildLiberationPotion.name=Zähmungstrank Trank
+item.LuckyBeastCore.name=Glücksbestien Kern (Unbenutzt)
+item.Summonluckybeast.name=Erschaffe Glücksbestie
+item.Kabanhat.name=Kaban's Hut
+item.JaparimanApple.name=Japarimann Apfel
+item.BearStick.name=Bären Stock
+item.Curry.name=Curry
+item.StarCaramel.name=Stern Karamel (Ungenutzt)
+item.GoldenJapariman.name=Gold Japarimann
+item.SandStarLow.name=Sandstern tief
+item.sandstarbook.name=Ein bestimmtes Forschungstagebuch
+
+entity.AncientSkeleton.name=Urzeit Skelett
+entity.KouteiPenguin.name=Kaiserpinguin
+# Cerulean is a shade of blue "Skyblue"(Himmelblau), it would sound weird to translate that in German and give it to a live-form.
+entity.Cerulean.name=Cerulean
+entity.PoisonCerulean.name=Gift Cerulean
+entity.Serval.name=Serval
+entity.Kawauso.name=Otter (Nicht fertig)
+entity.Shoebill.name=Schuhschnabel
+entity.WhiteOwl.name=Schnee-Eule
+entity.BrownOwl.name=Habichtskauz
+entity.LuckyBeast.name=Glücksbestie
+entity.SafeguardLuckyBeast.name=Glücksbestien Wächter
+entity.SavannaNamekuji.name=Savannen Nacktschnecke
+entity.Guide.name=Alice
+entity.Jariuma.name=Jariuma
+entity.Villager.japalar=Japari-Park Angestellter
+entity.Araisan.name=Waschbär
+itemGroup.JapariCraftTab=JapariCraft
+entity.whiteowl.friend=Es ist ziemlich einfach Curry hier hoch zu bringen
+entity.lucky.friend=Überlass mir das!
+entity.arai.friend=Danke!!
+# I think you meant "Waiting" ?
+entity.weitting=Wartend
+entity.active=Bereit
+entity.Fennec.name=Fennek
+entity.SandStarHandler.name=Sandstern Händler (ungenutzt)
+entity.RoyalPenguin.name=Haubenpinguin
+entity.Alpaca.name=Alpaka Suri
+entity.Squirre.name=Hörnchen
+
+advancements.japaricraftmod.root.title=JapariCraftMod
+advancements.japaricraftmod.root.description=Erschaffe Japarimänner
+advancements.japaricraftmod.sandstarhandler.title=Sandstern Hädnler
+advancements.japaricraftmod.sandstarhandler.description=Töte Sandstern Hädnler
+advancements.japaricraftmod.cerulean.title=Cerulean Jäger
+advancements.japaricraftmod.cerulean.description=Tötet Cerulean
+#The name "Energy Drink" is used in German too, it's more popular
+advancements.japaricraftmod.wildpotion.title=Energy drink
+advancements.japaricraftmod.wildpotion.description=Erstelle einen Wildheit befreiungs Trank
+advancements.japaricraftmod.sandstartool.title=Verbesse mehr
+advancements.japaricraftmod.sandstartool.description=Erschaffe eine Santstern Pickhacke
+advancement.japariman_dinner=Ich will Japarimänner essen!
+advancement.japariman_dinner.desc=Esse alle Japarimänner
+advancements.japaricraftmod.sandstarminer.title=Sandstern abbauer
+advancements.japaricraftmod.sandstarminer.description=Besorge einen sandstern
+
+entity.Villager.japaricraftmod.zookeeper=Tierpfleger
+
+fluid.sandstar=Sandstern Wasser
+
+page.0.name=Über das Buch
+page.0.desc=Ich nutze dieses Buch für meine Nachforschungen
+page.1.name=Über sandstern I
+page.1.desc=Es ist dafür geschaffen eine eigene umgebung zu erstellen und auf ewig zu erhalten
+page.2.name=Über sandstern II
+page.2.desc=Sandstern ist nur als substanz zur herstellung von schwarzen Cerulean's
+page.3.name=Über Menschen
+page.3.desc=Cerulean wurde aktiv und die Menschen standen kurz vor der Ausrotting
+page.4.name=Autor
+page.4.desc=Steve
+
+#Not sure if this needs translation, if it does change to: /sandstarlocate Sandstern Festung
+commands.sandstarlocate.usage=/sandstarlocate SandStarDungeon

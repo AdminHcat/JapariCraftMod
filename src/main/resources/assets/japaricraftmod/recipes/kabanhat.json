@@ -1,0 +1,19 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "###",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "X": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "japaricraftmod:kabanhat"
+  }
+}

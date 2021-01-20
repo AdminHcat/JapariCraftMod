@@ -1,0 +1,17 @@
+[
+{
+  "modid": "japaricraftmod",
+  "name": "JapariCraftMod",
+  "description": "add kemohureItem",
+  "version": "0.1",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["bagu_chan"],
+  "credits": "SpcialThanks:Cocoa",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [],
+  "useDependencyInformation": true
+}
+]

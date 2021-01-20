@@ -1,0 +1,90 @@
+#
+tile.BlockWoodenFrame.name=Wooden Frame
+tile.SandStarBlock.name=SandStarBlock
+tile.sandstar_ore.name=SandStarOre
+tile.sandstarwater.name=SandStarWater
+
+item.Japariman.name=Japariman
+item.JaparimanCocoa.name=Cocoa Japariman
+item.JaparimanFruit.name=Fruit Japariman
+item.SandStarFragment.name=Fragment of SandStar
+item.SandStarSword.name=SandStarSword
+item.SandStarShovel.name=SandStarShovel
+item.SandStarAxe.name=SandStarAxe
+item.SandStarPickaxe.name=SandStarPickaxe
+item.StarJapariman.name=StarJapariman
+item.SugarStar.name=SugarStar
+item.PumpkinSoup.name=Pumpkin Soup
+item.WildLiberationSource.name=Source of Liberation of Wildness
+item.WildLiberationPotion.name=Potion of Liberation of Wildness
+item.sandstarbook.name=A certain research diary
+item.LuckyBeastCore.name=LuckyBeastCore(Unuse)
+item.Summonluckybeast.name=SummonLuckyBeast
+item.Kabanhat.name=Kaban`s Hat
+item.JaparimanApple.name=JaparimanApple
+item.BearStick.name=BearStick
+item.Curry.name=Curry
+item.SandStarLow.name=SandStarLow
+item.StarCaramel.name=StarCaramel(Unuse)
+item.GoldenJapariman.name=GoldenJapariman
+item.japaricoin.name=JapariCoin
+
+entity.AncientSkeleton.name=Ancient Skeleton
+entity.KouteiPenguin.name=Emperor Penguins
+entity.Serval.name=Serval Cat
+entity.Cerulean.name=Cerulean
+entity.PoisonCerulean.name=PoisonCerulean
+entity.Kawauso.name=Otter(WIP)
+entity.Shoebill.name=Shoebill
+entity.WhiteOwl.name=WhiteOwl
+entity.BrownOwl.name=BrownOwl
+entity.LuckyBeast.name=LuckyBeast
+entity.SafeguardLuckyBeast.name=LuckyBeastGuard
+entity.SavannaNamekuji.name=SavannaNamekuji
+entity.Guide.name=Alice
+entity.Jariuma.name=Jariuma
+entity.Villager.japalar=Japari Staff
+entity.Araisan.name=Araisan
+entity.Fennec.name=Fennec
+entity.SandStarHandler.name=SandStarHandler(Unuse)
+entity.RoyalPenguin.name=RoyalPenguin
+entity.Alpaca.name=Alpaca Suri
+entity.Squirre.name=Squirre
+
+itemGroup.JapariCraftTab=JapariCraft
+
+entity.arai.friend=Thank`s!!
+entity.weitting=Weitting
+entity.active=Active
+
+advancements.japaricraftmod.root.title=JapariCraftMod
+advancements.japaricraftmod.root.description=Make Japariman
+advancements.japaricraftmod.sandstarhandler.title=SandStarHandler
+advancements.japaricraftmod.sandstarhandler.description=Kill SandStar Handler
+advancements.japaricraftmod.cerulean.title=Cerulean Hunter
+advancements.japaricraftmod.cerulean.description=Kill Cerulean
+advancements.japaricraftmod.wildpotion.title=Energy drink
+advancements.japaricraftmod.wildpotion.description=Make Potion of Liberation of Wildness
+advancements.japaricraftmod.sandstartool.title=Upgrade further
+advancements.japaricraftmod.sandstartool.description=Get SandStar Pickaxe
+advancement.japariman_dinner=I want eat Japariman
+advancement.japariman_dinner.desc=Eat all Type of Japariman
+advancements.japaricraftmod.sandstarminer.title=SandStarMiner
+advancements.japaricraftmod.sandstarminer.description=Get SandStar
+
+entity.Villager.japaricraftmod.zookeeper=ZooKeeper
+
+fluid.sandstar=SandStarWater
+
+page.0.name=About this book
+page.0.desc=This book is what I use as a research note
+page.1.name=About Sand Star Part1
+page.1.desc=It is designed to be able to build a completely decoupled individual environment and to save forever
+page.2.name=About Sand Star Part2
+page.2.desc=SandStar Low is still known only as a substance which produces a black cellian at this stage
+page.3.name=About humans
+page.3.desc=Cerulean became activated, people may have become on the verge of extinction
+page.4.name=Author
+page.4.desc=Steve
+
+commands.sandstarlocate.usage=/sandstarlocate SandStarDungeon

@@ -1,0 +1,67 @@
+{
+  "display": {
+    "icon": {
+      "item": "japaricraftmod:starjapariman"
+    },
+    "title": {
+      "translate": "advancement.japariman_dinner"
+    },
+    "description": {
+      "translate": "advancement.japariman_dinner.desc"
+    },
+    "frame": "challenge"
+  },
+  "parent": "japaricraftmod:japaricraftmod/root",
+  "criteria": {
+    "japariman": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "japaricraftmod:japariman"
+        }
+      }
+    },
+    "japariman_cocoa": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "japaricraftmod:japarimancocoa"
+        }
+      }
+    },
+    "japariman_apple": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "japaricraftmod:japarimanapple"
+        }
+      }
+    },
+    "goldenjapariman": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "japaricraftmod:goldenjapariman"
+        }
+      }
+    },
+    "starjapariman": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "japaricraftmod:starjapariman"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [ "japariman" ],
+    [ "japariman_cocoa" ],
+    [ "japariman_apple" ],
+    [ "goldenjapariman" ],
+    ["starjapariman"]
+  ],
+  "rewards": {
+    "experience": 80
+  }
+}

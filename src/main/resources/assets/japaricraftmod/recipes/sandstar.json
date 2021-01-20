@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "japaricraftmod:sandstar_block"
+    }
+  ],
+  "result": {
+    "item": "japaricraftmod:sandstar_fragment",
+    "count": 9
+  }
+}

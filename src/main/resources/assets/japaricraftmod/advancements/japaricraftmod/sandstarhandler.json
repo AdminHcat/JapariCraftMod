@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "japaricraftmod:sandstarsword"
+    },
+    "title": {
+      "translate": "advancements.japaricraftmod.sandstarhandler.title"
+    },
+    "description": {
+      "translate": "advancements.japaricraftmod.sandstarhandler.description"
+    },
+    "frame": "challenge"
+  },
+  "parent": "japaricraftmod:japaricraftmod/wildpotion",
+  "rewards": {
+    "experience": 160
+  },
+  "criteria": {
+    "sandstarhandler": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "japaricraftmod:mobs.SandStarHandler"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sandstarhandler"
+    ]
+  ]
+}

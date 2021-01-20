@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "aquamarine": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:wheat"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "japaricraftmod:japariman",
+      "japaricraftmod:japariman_apple",
+      "japaricraftmod:japariman_cocoa"
+    ]
+  }
+}

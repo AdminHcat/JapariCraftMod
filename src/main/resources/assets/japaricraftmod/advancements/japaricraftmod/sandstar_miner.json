@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "japaricraftmod:sandstar_fragment"
+    },
+    "title": {
+      "translate": "advancements.japaricraftmod.sandstarminer.title"
+    },
+    "description": {
+      "translate": "advancements.japaricraftmod.sandstarminer.description"
+    }
+  },
+  "parent": "japaricraftmod:japaricraftmod/root",
+  "criteria": {
+    "wild": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "japaricraftmod:sandstar_fragment"
+          }
+        ]
+      }
+    }
+  }
+}
